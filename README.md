@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-<head>
+<head><meta name="google-site-verification" content="9eq4ztWX9ChXUM5oYqrEX_jEu59p0h5hTEt6Yg-9xMI" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>تولیدی صمدزاده | Brando Shoes</title>
