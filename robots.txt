@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://brandoshoes.github.io/brandoshoes2025/sitemap.xml
