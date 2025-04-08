@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>وب‌سایت فروشگاه</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+        }
+        .product {
+            margin: 15px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .feedback {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>فروشگاه آنلاین ما</h1>
+</header>
+
+<section>
+    <h2>محصولات</h2>
+    <div class="product">
+        <h3>نام محصول ۱</h3>
+        <p>قیمت: ۱۰۰٫۰۰۰ تومان</p>
+        <img src="product1.jpg" alt="محصول ۱" style="max-width: 100%;">
+    </div>
+    <div class="product">
+        <h3>نام محصول ۲</h3>
+        <p>قیمت: ۱۵۰٫۰۰۰ تومان</p>
+        <img src="product2.jpg" alt="محصول ۲" style="max-width: 100%;">
+    </div>
+    <!-- می‌توانید محصولات بیشتری اضافه کنید -->
+</section>
+
+<section>
+    <h2>جعبه پیشنهادات</h2>
+    <form action="#" method="post">
+        <label for="feedback">نظرات و پیشنهادات خود را وارد کنید:</label><br>
+        <textarea id="feedback" name="feedback" rows="4" cols="50" placeholder="نظرات خود را اینجا بنویسید..."></textarea><br>
+        <button type="submit">ارسال</button>
+    </form>
+</section>
+
+<section class="feedback">
+    <h2>نظرات مشتریان</h2>
+    <p>این بخش می‌تواند شامل نظرات مشتریان باشد.</p>
+</section>
+
+</body>
+</html>
